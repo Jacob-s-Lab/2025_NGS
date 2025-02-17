@@ -7,7 +7,7 @@
 > 
 > 
 >
-1. 國網註冊及登入
+1. 國網註冊及登入：[填寫國網帳號調查](https://forms.gle/kqSarR33R62rHUiF8)
 2. Thinlinc下載並連結國網
 3. 上傳檔案至國網及至國網下載檔案
 
@@ -57,7 +57,7 @@ C. 依據信件中的指示安裝『IDExpert』APP』並完成綁定手機
 ### 加入計畫
 1. 進入iservice網頁後，依序點選畫面上方的：會員中心->計畫管理->我的計畫
 ![image](https://hackmd.io/_uploads/r1Gk54Xh6.png)
-2. 請填寫表單[NCHC Account Registration form]([https://docs.google.com/forms/d/e/1FAIpQLSdj1NXX9Z7DCfTjYdZQKBB3T6H3DXBOz3eZLf34g4zGW-2Sug/viewform?usp=sf_link](https://forms.gle/kqSarR33R62rHUiF8))
+2. 請填寫表單[國網帳號調查](https://forms.gle/kqSarR33R62rHUiF8)
 3. 完成表單後，**敬請等待**助教們將您的帳號加入本課程「2024生物標記物與它們的產地」的計畫中
 
 ### 登入國網
